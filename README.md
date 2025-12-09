@@ -1,4 +1,4 @@
-here# 📱 Mobile Sales Dashboard (Power BI)
+📱 Mobile Sales Dashboard (Power BI)
 
 A complete end-to-end **Mobile Sales Dashboard** built using Power BI.
 This project provides actionable insights into sales performance, revenue trends, profit margins, and product-wise performance—helping businesses make faster, data-driven decisions.
@@ -34,7 +34,7 @@ The objective of this project is to build an automated Power BI dashboard that e
   * Invoice date
   * Region/store
 
-### 3. Data Import & Cleaning (Power Query) 🧼
+### 3. Data Import & Cleaning (Power Query) 
 * Imported source data into Power BI using Power Query.
 * Performed:
   * Null value handling
@@ -59,7 +59,7 @@ The objective of this project is to build an automated Power BI dashboard that e
 * Created one-to-many relationship using Date.
 * Ensured optimized and efficient model for DAX calculations.
 
-### 7. DAX Calculations (Custom Measures) ➕
+### 7. DAX Calculations (Custom Measures) 
 * **Total Revenue** = `SUM('Sales'[Selling Price])`
 * **Total Cost** = `SUM('Sales'[Cost Price])`
 * **Total Profit** = `SUM('Sales'[Profit])`
@@ -102,15 +102,6 @@ The objective of this project is to build an automated Power BI dashboard that e
 * Star Schema Data Modeling
 * Time-Intelligence Functions
 * Data Visualization & Formatting
-
----
-
-## 📦 Deliverables
-
-* 📊 **Power BI Dashboard (PBIX)** — *Available on request*
-* 🖼 **Dashboard Screenshot** — *Attach link*
-* 📄 **Project Summary PDF** — *Attach link*
-* 📝 **README.md** — This documentation
 
 ---
 
